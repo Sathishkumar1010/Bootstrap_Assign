@@ -1,0 +1,49 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+}
+.h2{
+    text-align: center;
+    padding-top: 20px;
+
+}
+.p2{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.f1{
+    height: 250px;
+    width: 300px;
+    border: ridge;
+    text-align: center;
+}
+.f2{
+    height: 250px;
+    width: 300px;
+    border: ridge;
+    text-align: center;
+}
+.f3{
+    height: 250px;
+    width: 300px;
+    border: ridge;
+    text-align: center;
+}
+li{
+    font-size: 15px;
+}
+.demo {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .h3{
+      border:ridge;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      background-color: rgb(231, 241, 240);
+  }
